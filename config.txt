@@ -1,1 +1,1 @@
-titulo=App
+titulo=App Principal
